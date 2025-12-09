@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full-Stack Engineer experienced in Angular, <br>.NET Core, React, Flutter, and cloud technologies. <br>I build high-performance applications, integrate complex systems, <br>and continuously explore better ways to architect secure and efficient digital solutions.
+Passionate Full-Stack Engineer experienced in Angular, .NET Core, React, Flutter, and cloud technologies. I build high-performance applications, integrate complex systems, and continuously explore better ways to architect secure and efficient digital solutions.
 
 
 ## 🌐 Socials:
